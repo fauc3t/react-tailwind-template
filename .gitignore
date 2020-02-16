@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+# tailwind css output
+src/tailwind/tailwind.css
